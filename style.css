@@ -1,0 +1,99 @@
+body {
+	background: #777;
+	content: #ebebeb;
+	width: 960px;
+}
+header {
+	background: #ebebeb;
+	color: #777;
+	width: 941px;
+	height: 94px;
+	left: 150px;
+	position: relative;
+}
+h1 {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	padding: 30px;
+}
+h2 {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+}
+h3 {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	padding: 10px;
+}
+h4 {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	padding: 10px;
+}
+nav{
+	background: #ebebeb;
+	color: #777;
+	width: 941px;
+	height: 94px;
+	left: 150px;
+	bottom: 5px;
+	position: relative;
+}
+#section {
+	background: #ebebeb;
+	color: #777;
+	width: 515px;
+	height: 287px;
+	left: 150px;
+	position: relative;
+}
+#article {
+	background: #777;
+	color: #d0dbdf;
+	width: 493px;
+	height: 191px;
+	left: 12px;
+	bottom: 12px;
+	position: absolute;
+}
+#h1h2h3 {
+	background: #ebebeb;
+	color: #777;
+	width: 449px;
+	height: 54px;
+	left: 22px;
+	bottom: 75px;
+	position: absolute;
+}
+#p {
+	background: #ebebeb;
+	color: #777;
+	width: 449px;
+	height: 54px;
+	left: 22px;
+	bottom: 12px;
+	position: absolute;
+}
+#aside {
+	background: #ebebeb;
+	color: #777;
+	width: 405px;
+	height: 287px;
+	left: 425px;
+	bottom: 93px;
+	position: relative;
+	float: right;
+}
+footer {
+	background: #ebebeb;
+	color: #777;
+	width: 941px;
+	height: 94px;
+	left: 158px;
+	bottom: 35px;
+	position: fixed;
+}
